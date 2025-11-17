@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # flutter_application_1
 
 A new Flutter project.
@@ -15,6 +14,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-=======
-Desarrollo del procedimiento para las solicitudes HTTP de la aplicación móvil.
->>>>>>> 01df434e14f86d75b1a184cdd03882469972bb77
